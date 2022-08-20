@@ -361,3 +361,9 @@ patch:
       ascii_mode: true
     com.xunyong.hapigo: # hapigo
       ascii_mode: true
+    co.zeit.hyper:
+      ascii_mode: true
+    io.dcloud.HBuilderX:
+      ascii_mode: true
+# mac查询包名
+# osascript -e 'id of app "App名"'
