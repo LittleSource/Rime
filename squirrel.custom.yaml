@@ -3,7 +3,7 @@ patch:
 
   # 皮肤主题名称输入在下方，分为浅色和深色
   # 浅色主题（使用哪个主题去掉前面的 #）
-  style/color_scheme: mac_light
+  style/color_scheme: roseo_maple
   #style/color_scheme: mac_green
   #style/color_scheme: mac_orange
   #style/color_scheme: mac_blue
@@ -14,7 +14,7 @@ patch:
   #style/color_scheme: ink
   #style/color_scheme: nord_light
   # 深色主题（使用哪个主题去掉前面的 #）
-  style/color_scheme_dark: roseo_maple
+  style/color_scheme_dark: mac_dark
   #style/color_scheme_dark: psionics
   #style/color_scheme_dark: solarized_rock
   #style/color_scheme_dark: solarized_dark
